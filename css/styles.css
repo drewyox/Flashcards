@@ -2,14 +2,69 @@
   border: 2px solid black;
 }
 
-#javaBack {
+.back{
   display: none;
 }
 
-#oprBack {
+/* .javaBack {
   display: none;
 }
 
-#varBack {
+.oprBack {
   display: none;
 }
+
+.varBack {
+  display: none;
+}
+
+.varNBack {
+  display: none;
+}
+
+.funcBack {
+  display: none;
+}
+
+.methBack {
+  display: none;
+}
+.argBack {
+  display: none;
+}
+.paraBack {
+  display: none;
+}
+.retBack {
+  display: none;
+}
+.chainBack {
+  display: none;
+}
+.strBack {
+  display: none;
+}
+.boolBack {
+  display: none;
+}
+.undeBack {
+  display: none;
+}
+.nanBack {
+  display: none;
+}
+.escaBack {
+  display: none;
+}
+.aleBack {
+  display: none;
+}
+.comBack {
+  display: none;
+}
+.jqueryBack {
+  display: none;
+}
+.attBack {
+  display: none;
+} */
