@@ -1,0 +1,15 @@
+.colStyle {
+  border: 2px solid black;
+}
+
+#javaBack {
+  display: none;
+}
+
+#oprBack {
+  display: none;
+}
+
+#varBack {
+  display: none;
+}
